@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/saori/Documents/andrenessalon/src/components/header.jsx",
+		"/Users/saori/Documents/andrenessalon/src/components/navigation.jsx",
+		"/Users/saori/Documents/andrenessalon/src/data/data.json",
+		"/Users/saori/Documents/andrenessalon/node_modules/bser/package.json",
+		"/Users/saori/Documents/andrenessalon/package.json",
+		"/Users/saori/Documents/andrenessalon/src/index.js",
+		"/Users/saori/Documents/andrenessalon/public/index.html",
+		"/Users/saori/Documents/andrenessalon/webpack.config.js",
+		"/Users/saori/Documents/andrenessalon/.eslintrc.json",
+		"/Users/saori/Documents/andrenessalon/.babelrc",
+		"/Users/saori/Desktop/photos",
+		"/Users/saori/Documents/mean-iOS/Gemfile",
+		"/Users/saori/Desktop/2021-06-04 15-17",
+		"/Users/saori/Desktop/raw.log",
+		"/Users/saori/Documents/mean-iOS/Podfile.lock",
+		"/Users/saori/Documents/mean-iOS/Podfile",
+		"/Users/saori/Documents/dotfiles/.config/starship.toml",
+		"/Users/saori/Documents/test.apns",
+		"/Users/saori/Documents/dotfiles/shell/zsh/.zshrc",
+		"/Users/saori/.zshrc",
+		"/Users/saori/Desktop/memo.txt",
+		"/Users/saori/Documents/dotfiles/.gitignore",
+		"/Users/saori/Documents/dotfiles/open",
+		"/Users/saori/Documents/dotfiles/git/.gitconfig",
+		"/Users/saori/.config/starship.toml",
+		"/.file",
+		"/Users/saori/~",
+		"/Users/saori/Desktop/名称未設定2.rtf",
+		"/Users/saori/Desktop/new.rtf"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"features",
+			"Learn More",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.\n\n",
+			"m dolor sit amet, consect",
+			"WE A",
+			"react",
+			"React Landing Page",
+			"React Landing Page\"",
+			"React Landing Page",
+			"RECT Lan",
+			"react "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/andrenessalon/src/components/about.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
