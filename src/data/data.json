@@ -5,7 +5,7 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Celebrating 20 years of serving our clients Andrene's Salon embraces new and exciting approaches while reflecting the latest in great looks and fashion from around the world.  We are serious about your hair and helping you look great.\nProfessionally trained hair designers ensure you receive the best available hair services and products selected especially for you.  Continuing education is something we take very seriously.\nNow you can have world class hair design right here in Marysville.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -104,32 +104,34 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
+        "address": "Andrene's Salon‎ 1110 5th St # 1 Marysville, WA‎ 98270",
         "phone": "425-923-3000",
-        "email": "info@company.com",
+        "email": "andrenessalon@gmail.com",
         "facebook": "https://www.facebook.com/Andrenes-Salon-10150090936810459",
         "twitter": "http://www.twitter.com/andrenessalon",
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "img/300x300.png",
+            "title": "CUTTING",
+            "text_1": "Women $50",
+            "text_2": "Men $40",
+            "text_3": ""
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "img/300x300.png",
+            "title": "COLORING",
+            "text_1": "Single foil with cut $125",
+            "text_2": "Additional color $10",
+            "text_3": "No cut $100"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "img/300x300.png",
+            "title": "STYLING",
+            "text_1": "Blow & curl $25 per 30 min",
+            "text_2": "Up do $45 per hour",
+            "text_3": "Flat iron $25 per 30 min"
         }
+
     ]
 }

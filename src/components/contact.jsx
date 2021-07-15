@@ -37,79 +37,18 @@ export const Contact = (props) => {
       <div id='contact'>
         <div className='container'>
           <div className='col-md-8'>
-            <div className='row'>
               <div className='section-title'>
                 <h2>Get In Touch</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  Call or text to schedule your next appointment.
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
-                <div className='row'>
-                  <div className='col-md-6'>
-                    <div className='form-group'>
-                      <input
-                        type='text'
-                        id='name'
-                        name='name'
-                        className='form-control'
-                        placeholder='Name'
-                        required
-                        onChange={handleChange}
-                      />
-                      <p className='help-block text-danger'></p>
-                    </div>
-                  </div>
-                  <div className='col-md-6'>
-                    <div className='form-group'>
-                      <input
-                        type='email'
-                        id='email'
-                        name='email'
-                        className='form-control'
-                        placeholder='Email'
-                        required
-                        onChange={handleChange}
-                      />
-                      <p className='help-block text-danger'></p>
-                    </div>
-                  </div>
-                </div>
-                <div className='form-group'>
-                  <textarea
-                    name='message'
-                    id='message'
-                    className='form-control'
-                    rows='4'
-                    placeholder='Message'
-                    required
-                    onChange={handleChange}
-                  ></textarea>
-                  <p className='help-block text-danger'></p>
-                </div>
-                <div id='success'></div>
-                <button type='submit' className='btn btn-custom btn-lg'>
-                  Send Message
-                </button>
-              </form>
-            </div>
-          </div>
-          <div className='col-md-3 col-md-offset-1 contact-info'>
-            <div className='contact-item'>
-              <h3>Contact Info</h3>
-              <p>
-                <span>
-                  <i className='fa fa-map-marker'></i> Address
-                </span>
-                {props.data ? props.data.address : 'loading'}
-              </p>
-            </div>
+              <div className='contact-info'>
             <div className='contact-item'>
               <p>
                 <span>
                   <i className='fa fa-phone'></i> Phone
-                </span>{' '}
+                </span>
                 {props.data ? props.data.phone : 'loading'}
               </p>
             </div>
@@ -121,18 +60,30 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : 'loading'}
               </p>
             </div>
+            <div className='contact-item'>
+              <p>
+                <span>
+                  <i className='fa fa-map-marker'></i> Address
+                </span>{' '}
+                {props.data ? props.data.address : 'loading'}
+              </p>
+            </div>
+          </div>
+          </div>
+          <div className='col-md-6'>
+              <iframe frameborder="0" scrolling="no" src="http://maps.google.com/maps?hl=en&amp;source=hp&amp;ie=UTF8&amp;q=salon&amp;fb=1&amp;gl=us&amp;hq=salon&amp;hnear=Marysville,+WA&amp;view=map&amp;cid=1037344670146820418&amp;ved=0CAwQpQY&amp;ei=mBYBS4P6DZCciAOGiJyWBw&amp;ll=48.052511,-122.183118&amp;spn=0.004303,0.006437&amp;z=16&amp;iwloc=A&amp;output=embed" width="100%" height="70%"></iframe>
           </div>
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a target="_blank" href={props.data ? props.data.facebook : '/'}>
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a target="_blank" href={props.data ? props.data.twitter : '/'}>
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
@@ -140,16 +91,6 @@ export const Contact = (props) => {
               </div>
             </div>
           </div>
-        </div>
-      </div>
-      <div id='footer'>
-        <div className='container text-center'>
-          <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
-          </p>
         </div>
       </div>
     </div>
