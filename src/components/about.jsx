@@ -12,7 +12,7 @@ export const About = (props) => {
               <h2>About Us</h2>
               <h3>Why Choose Us?</h3>
               <p>{props.data ? props.data.paragraph : 'loading...'}</p>
-              <p>Call or text 425-923-3000‎ today to schedule your next appointment.</p>
+              <p>Call or text <a href='tel:425-923-3000'>425-923-3000</a> today to schedule your next appointment.</p>
             </div>
           </div>
         </div>

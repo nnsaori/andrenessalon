@@ -36,7 +36,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <div className='col-md-8'>
+          <div className='col-md-6'>
               <div className='section-title'>
                 <h2>Get In Touch</h2>
                 <p>
@@ -49,7 +49,7 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-phone'></i> Phone
                 </span>
-                {props.data ? props.data.phone : 'loading'}
+                <a href={props.data ? 'tel:' + props.data.phone : 'loading'}>{props.data ? props.data.phone : 'loading'}</a>
               </p>
             </div>
             <div className='contact-item'>
@@ -57,7 +57,8 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-envelope-o'></i> Email
                 </span>{' '}
-                {props.data ? props.data.email : 'loading'}
+                
+                <a target="_blank" href={props.data ? 'mailto:' + props.data.email + '?subject=New+appointment' : 'loading'}>{props.data ? props.data.email : 'loading'}</a>
               </p>
             </div>
             <div className='contact-item'>
@@ -78,13 +79,13 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a target="_blank" href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                    <a target="_blank" href={props.data ? props.data.instagram : '/'}>
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
+                      <a target="_blank" href={props.data ? props.data.facebook : '/'}>
+                      <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                 </ul>

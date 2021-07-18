@@ -12,14 +12,19 @@ export const Features = (props) => {
                   {' '}
                   <i className={d.icon}><img src={d.icon} className='img-responsive' alt='' />{' '}</i>
                   <h3>{d.title}</h3>
-                  <div>
+                  <p>{d.description}</p>
                     <ul>
-                      <li>{d.text_1}</li>
-                      <li>{d.text_2}</li>
-                      <li>{d.text_3}</li>
+                      <li>{d.menu_1} {d.price_1}</li>
+                      <li>{d.menu_2}</li>
+                      <li>{d.menu_3}</li>
+                      <li>{d.menu_4}</li>
                     </ul>
-                  </div>
-                  </div>
+                    <ul>
+                      <li>{d.price_2}</li>
+                      <li>{d.price_3}</li>
+                      <li>{d.price_4}</li>
+                    </ul>
+                </div>
               ))
             : 'Loading...'}
         </div>

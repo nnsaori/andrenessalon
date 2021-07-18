@@ -109,29 +109,31 @@
         "email": "andrenessalon@gmail.com",
         "facebook": "https://www.facebook.com/Andrenes-Salon-10150090936810459",
         "twitter": "http://www.twitter.com/andrenessalon",
+        "instagram": "https://www.instagram.com/andrenes_salon/",
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "img/300x300.png",
-            "title": "CUTTING",
-            "text_1": "Women $50",
-            "text_2": "Men $40",
-            "text_3": ""
+            "icon": "img/cuttintg.jpg",
+            "title": "Haircuts",
+            "menu_1": "Women  $50",
+            "menu_2": "Men  $40"
         },
         {
-            "icon": "img/300x300.png",
-            "title": "COLORING",
-            "text_1": "Single foil with cut $125",
-            "text_2": "Additional color $10",
-            "text_3": "No cut $100"
+            "icon": "img/color.jpg",
+            "title": "Full color",
+            "description": "Apply color to all your hair",
+            "menu_1": "Color  $85",
+            "menu_2": "Color & cut  $110",
+            "menu_3": "Oranic color  $10",
+            "menu_4": "Extra color bowl  $10"
         },
         {
-            "icon": "img/300x300.png",
-            "title": "STYLING",
-            "text_1": "Blow & curl $25 per 30 min",
-            "text_2": "Up do $45 per hour",
-            "text_3": "Flat iron $25 per 30 min"
+            "icon": "img/color_foil.jpg",
+            "title": "Color highlights",
+            "description": "Add some color to your hair",
+            "menu_1": "Single foil  $125",
+            "menu_2": "Single foil & cut  $150",
+            "menu_3": "Additional colors  $15"
         }
-
     ]
 }
