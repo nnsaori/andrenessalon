@@ -86,7 +86,7 @@ hr {
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: #555;
+	/*color: #555;*/
 	font-size: 15px;
 	font-weight: 400;
 	padding: 8px 2px;
@@ -106,6 +106,13 @@ hr {
 }
 #menu.navbar-default .navbar-nav > li > a:hover:after {
 	width: 100%;
+}
+#menu a.navbar-number {
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+	color: #C8102E;
+	text-transform: uppercase;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	background-color: transparent;
@@ -300,12 +307,12 @@ header .intro-text {
 }
 #about a {
 	/*color: #608dfd;*/
-	color: #777;
+	color: #2D2D2D;
 	font-weight: 400;
 }
 #about a:hover, a:focus {
 	text-decoration: none;
-	color: #777;
+	color: #2D2D2D;
 	/*color: #608dfd;*/
 }
 /* Services Section */

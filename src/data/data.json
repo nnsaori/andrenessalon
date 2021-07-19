@@ -2,10 +2,10 @@
     "Header": {
         "title": "Andrene's Salon",
         "paragraph": "We help you to look your best and to feel good about yourself in an environment of caring and innovation.\nWe will partner with you to find the best way to bring out your true beauty."
-
     },
     "About": {
         "paragraph": "Celebrating 20 years of serving our clients Andrene's Salon embraces new and exciting approaches while reflecting the latest in great looks and fashion from around the world.  We are serious about your hair and helping you look great.\nProfessionally trained hair designers ensure you receive the best available hair services and products selected especially for you.  Continuing education is something we take very seriously.\nNow you can have world class hair design right here in Marysville.",
+        "phone": "425-923-3000",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -124,7 +124,7 @@
             "description": "Apply color to all your hair",
             "menu_1": "Color  $85",
             "menu_2": "Color & cut  $110",
-            "menu_3": "Oranic color  $10",
+            "menu_3": "Organic color  $10",
             "menu_4": "Extra color bowl  $10"
         },
         {
