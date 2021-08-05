@@ -113,13 +113,13 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "img/cuttintg.jpg",
+            "icon": "img/cuttintg.png",
             "title": "Haircuts",
             "menu_1": "Women  $50",
             "menu_2": "Men  $40"
         },
         {
-            "icon": "img/color.jpg",
+            "icon": "img/color.png",
             "title": "Full color",
             "description": "Apply color to all your hair",
             "menu_1": "Color  $85",
@@ -128,7 +128,7 @@
             "menu_4": "Extra color bowl  $10"
         },
         {
-            "icon": "img/color_foil.jpg",
+            "icon": "img/color_foil.png",
             "title": "Color highlights",
             "description": "Add some color to your hair",
             "menu_1": "Single foil  $125",
