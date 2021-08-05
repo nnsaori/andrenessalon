@@ -72,7 +72,7 @@ export const Contact = (props) => {
           </div>
           </div>
           <div className='col-md-6'>
-              <iframe frameborder="0" scrolling="no" src="http://maps.google.com/maps?hl=en&amp;source=hp&amp;ie=UTF8&amp;q=salon&amp;fb=1&amp;gl=us&amp;hq=salon&amp;hnear=Marysville,+WA&amp;view=map&amp;cid=1037344670146820418&amp;ved=0CAwQpQY&amp;ei=mBYBS4P6DZCciAOGiJyWBw&amp;ll=48.052511,-122.183118&amp;spn=0.004303,0.006437&amp;z=16&amp;iwloc=A&amp;output=embed" width="100%" height="70%"></iframe>
+              <iframe frameborder="0" scrolling="no" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Andrene's%20Salon,%201110%205th%20St%20Marysville,%20WA%2098270+()&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="70%"></iframe>
           </div>
           <div className='col-md-12'>
             <div className='row'>
