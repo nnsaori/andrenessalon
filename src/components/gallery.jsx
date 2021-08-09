@@ -16,7 +16,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/01.jpg'
+                    href='img/portfolio/01-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -24,7 +24,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/01.jpg'
+                      src='img/portfolio/01-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -37,7 +37,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/02.jpg'
+                    href='img/portfolio/02-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -45,7 +45,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/02.jpg'
+                      src='img/portfolio/02-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -58,7 +58,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/03.jpg'
+                    href='img/portfolio/03-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -66,7 +66,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/03.jpg'
+                      src='img/portfolio/03-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -79,7 +79,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/04.jpg'
+                    href='img/portfolio/04-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -87,7 +87,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/04.jpg'
+                      src='img/portfolio/04-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -100,7 +100,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/05.jpg'
+                    href='img/portfolio/05-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -108,7 +108,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/05.jpg'
+                      src='img/portfolio/05-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -121,7 +121,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/06.jpg'
+                    href='img/portfolio/06-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -129,7 +129,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/06.jpg'
+                      src='img/portfolio/06-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -142,7 +142,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/07.jpg'
+                    href='img/portfolio/07-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -150,7 +150,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/07.jpg'
+                      src='img/portfolio/07-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -163,7 +163,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/08.jpg'
+                    href='img/portfolio/08-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -171,7 +171,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/08.jpg'
+                      src='img/portfolio/08-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}
@@ -184,7 +184,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/09.jpg'
+                    href='img/portfolio/09-large.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -192,7 +192,7 @@ export const Gallery = (props) => {
                       <h4></h4>
                     </div>
                     <img
-                      src='img/portfolio/09.jpg'
+                      src='img/portfolio/09-small.jpg'
                       className='img-responsive'
                       alt='Project Title'
                     />{' '}

@@ -120,7 +120,7 @@
         },
         {
             "icon": "img/color.png",
-            "title": "Full color",
+            "title": "Color",
             "description": "Apply color to all your hair",
             "menu_1": "Color  $85",
             "menu_2": "Color & cut  $110",
@@ -129,7 +129,7 @@
         },
         {
             "icon": "img/color_foil.png",
-            "title": "Color highlights",
+            "title": "Highlights color",
             "description": "Add some color to your hair",
             "menu_1": "Single foil  $125",
             "menu_2": "Single foil & cut  $150",
