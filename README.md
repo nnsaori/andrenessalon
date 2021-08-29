@@ -1,6 +1,6 @@
 # ANDRENE'S SALON
 
-Single page of hair salon  
+Hair salon Page
 
 
 # Requirements
@@ -14,21 +14,22 @@ https://github.com/hokaccha/nodebrew
 
 ##### Reload config
 
-'''
-$ source ~/.zshrc
-'''
+```
+$ source ~/.zshrc 
+```
 
 ### install node.js
 
-'''
+```
 $ nodebrew ls-remote
 $ nodebrew install-binary vX.X.X // Stable version
 
 $ nodebrew use vX.X.X
 $ node -v
 vX.X.X
-'''
+```
 
+```
 $ cd ~
 $ setfattr -n user.pax.flags -v "mr" $(find $NVM_DIR -type f -iname "node" -o -iname "npm" -o -iname "npx")
-
+```
