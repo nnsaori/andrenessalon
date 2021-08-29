@@ -4,7 +4,7 @@
         "paragraph": "We help you to look your best and to feel good about yourself in an environment of caring and innovation.\nWe will partner with you to find the best way to bring out your true beauty."
     },
     "About": {
-        "paragraph": "Celebrating 20 years of serving our clients Andrene's Salon embraces new and exciting approaches while reflecting the latest in great looks and fashion from around the world.  We are serious about your hair and helping you look great.\nProfessionally trained hair designers ensure you receive the best available hair services and products selected especially for you.  Continuing education is something we take very seriously.\nNow you can have world class hair design right here in Marysville.",
+        "paragraph": "Celebrating 25 years of serving our clients Andrene's Salon embraces new and exciting approaches while reflecting the latest in great looks and fashion from around the world.  We are serious about your hair and helping you look great.\nProfessionally trained hair designers ensure you receive the best available hair services and products selected especially for you.  Continuing education is something we take very seriously.\nNow you can have world class hair design right here in Marysville.",
         "phone": "425-923-3000",
         "Why": [
             "Lorem ipsum dolor",
@@ -120,8 +120,8 @@
         },
         {
             "icon": "img/color.png",
-            "title": "Color",
-            "description": "Apply color to all your hair",
+            "description": "Add base color to your hair.",
+            "title": "Base Color",
             "menu_1": "Color  $85",
             "menu_2": "Color & cut  $110",
             "menu_3": "Organic color  $10",
@@ -130,7 +130,7 @@
         {
             "icon": "img/color_foil.png",
             "title": "Highlights color",
-            "description": "Add some color to your hair",
+            "description": "Add multi-dimensional shades to your hair.",
             "menu_1": "Single foil  $125",
             "menu_2": "Single foil & cut  $150",
             "menu_3": "Additional colors  $15"

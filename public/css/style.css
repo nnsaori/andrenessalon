@@ -308,12 +308,12 @@ header .intro-text {
 }
 #about a {
 	/*color: #608dfd;*/
-	color: #2D2D2D;
+	color: #C8102E;
 	font-weight: 400;
 }
 #about a:hover, a:focus {
 	text-decoration: none;
-	color: #2D2D2D;
+	color: #C8102E;
 	/*color: #608dfd;*/
 }
 /* Services Section */
