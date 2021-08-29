@@ -12,11 +12,6 @@ Hair salon Page
 
 https://github.com/hokaccha/nodebrew
 
-##### Reload config
-
-```
-$ source ~/.zshrc 
-```
 
 ### install node.js
 
